@@ -7,7 +7,7 @@
  * Copyright: prisma-api (c), All rights reserved
  * Create date: Sat Oct 16 2021 00:29:34 GMT+0700 (Krasnoyarsk Standard Time)
 ******************************************************************************************/
-import prismaApi from '../../prisma-api/dist/src/index';
+import prismaApi from 'prisma-api';
 import dotenv from 'dotenv';
 dotenv.config();
 
